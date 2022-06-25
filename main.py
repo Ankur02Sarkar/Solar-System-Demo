@@ -173,7 +173,7 @@ def main():
 
     planets = [sun, mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, pluto]
     # Planets after Mars are too far away thus they won't normally be visible
-    # But to make them visible change the Scale at Line 23 to 12/AU
+    # But to make them visible change the Scale at Line 32 to 12/AU
     # Of Course changing the scale would cause the nearer planets to overlap
 
     while run:
